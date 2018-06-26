@@ -1,0 +1,43 @@
+h4,h5{
+      font-size: 85%;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #bbb;
+      font-size: 10px;
+      font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+      font-weight: 100;
+ }
+
+h1,p,b{
+
+font-family: times, Times New Roman, times-roman, georgia, serif;
+ font-size: 28px;
+ line-height: 40px;
+ letter-spacing: -1px;color: #444;
+}
+
+body{
+    background-image: url("fundo.jpg");
+	background-repeat: repeat-x;
+}
+
+
+input.rounded {
+  border: 1px solid #ccc;
+  width:130px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -moz-box-shadow: 2px 2px 3px #666;
+  -webkit-box-shadow: 2px 2px 3px #666;
+  box-shadow: 2px 2px 3px #666;
+  font-size: 15px;
+  padding: 8px 7px;
+  outline: 0;
+  -webkit-appearance: none;
+}
+
+input.rounded:focus {
+  border-color: #CCCCCC;
+  
+}
