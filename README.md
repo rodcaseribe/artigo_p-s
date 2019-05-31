@@ -1,6 +1,6 @@
 # Calculadora de SubRedes com PHP
 
-Calculdo de CIDR para VLANS e afins
+Calculo de CIDR para VLANS e afins
 
 
 # Demo
